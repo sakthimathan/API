@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-22T13:04:26 IST" name="Default suite" finished-at="2024-05-22T13:04:29 IST" duration-ms="2613">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T13:04:26 IST" name="Default test" finished-at="2024-05-22T13:04:29 IST" duration-ms="2613">
+      <class name="Execution.TestRunner">
+        <test-method signature="url()[pri:0, instance:Execution.TestRunner@5824a83d]" started-at="2024-05-22T13:04:26 IST" name="url" finished-at="2024-05-22T13:04:29 IST" duration-ms="2560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+      </class> <!-- Execution.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
